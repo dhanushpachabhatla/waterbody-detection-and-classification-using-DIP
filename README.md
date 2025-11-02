@@ -69,3 +69,14 @@ Each image will have:
 _mask.png → Cleaned binary mask
 _classified.png → Final visualization with detected water regions
 _ndwi.png → NDWI map visualization
+
+
+
+### first draft results - 
+its working nice but still the classification is going wrong sometimes as it is based on heuristics....need to work on it.
+
+<img width="1919" height="656" alt="Screenshot 2025-11-02 121041" src="https://github.com/user-attachments/assets/f87e57e0-cea5-439c-b02c-3aaf4194d534" />
+<img width="1866" height="738" alt="Screenshot 2025-11-02 120901" src="https://github.com/user-attachments/assets/09d06b19-9453-48d6-b897-cec18a1adbb8" />
+<img width="1875" height="726" alt="Screenshot 2025-11-02 121017" src="https://github.com/user-attachments/assets/d0788f37-31f3-4d5f-8a39-0db28b477269" />
+
+
