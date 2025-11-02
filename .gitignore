@@ -1,0 +1,49 @@
+# === Python & Virtual Environment ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pkl.gz
+*.ipynb_checkpoints/
+.venv/
+venv/
+env/
+ENV/
+
+# === IDEs & Editors ===
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# === OS-specific ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Logs & Temporary Files ===
+*.log
+*.tmp
+*.swp
+*.bak
+
+# === Project Data ===
+# Raw and output image directories (optional, uncomment to ignore processed data)
+# data/raw_images/
+data/classified/
+data/processed_images/
+
+# === Build & Packaging ===
+build/
+dist/
+*.egg-info/
+
+# === Environment Files ===
+.env
+.env.local
+*.json
+
+# === Cache ===
+.cache/
+__cache__/
